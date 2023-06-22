@@ -1,5 +1,5 @@
 # O Que Vende um Carro?
-Sou aluno da Practicum no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o terceiro projeto.
+Sou aluno da TripleTen no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o terceiro projeto.
 
 Neste projeto sou analista na Lista de Eixo de Manivela. Centenas de propagandas gratuitas de veículos são publicadas no meu site todos os dias. Preciso estudar os dados coletados nos últimos anos e determinar quais fatores influenciaram o preço de um veículo.
 
