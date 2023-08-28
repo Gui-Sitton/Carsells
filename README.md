@@ -1,30 +1,31 @@
-# O Que Vende um Carro?
-Sou aluno da TripleTen no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o terceiro projeto.
+# What Sells a Car?
 
-Neste projeto sou analista na Lista de Eixo de Manivela. Centenas de propagandas gratuitas de veículos são publicadas no site todos os dias. Preciso estudar os dados coletados nos últimos anos e determinar quais fatores influenciaram o preço de um veículo.
+In this project I'm an analyst on the Crankshaft List. Hundreds of free vehicle advertisements are published on the site every day. I need to study the data collected over the last few years and determine which factors influence the price of a vehicle.
 
-**Temos os seguintes parâmetros** 
-* Preço
-* Idade do veículo quando a propaganda foi colocada
-* Quilometragem
-* Número de cilindros
-* Condição
+**We have the following parameters**
+* Price
+* Age of the vehicle when the advertisement was placed
+* Mileage
+* Number of cylinders
+* Condition
 
-**Descrição dos Dados**
-O conjunto de dados contém os seguintes campos:
+**Data Description**
+
+The dataset contains the following fields:
+
 * price
 * model_year
 * model
 * condition
 * cylinders
-* fuel — gasolina, diesel etc.
-* odometer — a quilometragem do veículo quando a propaganda foi publicada
+* fuel - gasoline, diesel etc.
+* odometer - the vehicle's mileage when the advertisement was published
 * transmission
 * paint_color
-* is_4wd — Se o veículo é 4 por 4 (tipo Booleano)
-* date_posted — a data que a propaganda foi publicada
-* days_listed — dias desde a publicação até a retirada
+* is_4wd - If the vehicle is 4 by 4 (Boolean type)
+* date_posted - the date the advertisement was published
+* days_listed - days from publication to withdrawal
 
-**Conclusão**
+**Conclusion**
 
-Vemos uma relação clara de quanto mais novo o carro maior o preço, assim como com menos km rodado é também, mais caro. Os carros automáticos são claramente mais caros também. As cores que são mais caras são preto, cinza, vermelho e branco. Sendo branco a mais frequente(analisado anteriormente com .describe()). Então o carro mais caro seria um carro branco com pouca kilometragem, novo e automático.
+We see a clear relationship between the newer the car, the higher the price, and the more expensive it is with fewer kilometers. Automatic cars are clearly more expensive too. The most expensive colors are black, gray, red and white. White being the most common (analyzed earlier with .describe()). So the most expensive car would be a white car with low mileage, new and automatic.
